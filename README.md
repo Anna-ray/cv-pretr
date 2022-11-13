@@ -1,4 +1,4 @@
-# cv-pretr
+# Computer Vision: Pretreatments
 This is the results of the code shows the filter types like gussian, bilateral, median  & average
 
 
